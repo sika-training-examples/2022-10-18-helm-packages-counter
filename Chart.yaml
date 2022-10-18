@@ -1,0 +1,5 @@
+apiVersion: v2
+name: counter
+description: Example app for Kubernetes Training
+type: application
+version: 2022.10.18
